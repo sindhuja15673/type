@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet !important;
+    color: aqua ;
+}
+h1{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: aquamarine;
+    color:blue ;
+}
+.selector{
+    color: blue !important;
+}
+div{
+    color: blueviolet
+}
+#name{
+    color: brown;
+    font-style: italic;
+
+}
